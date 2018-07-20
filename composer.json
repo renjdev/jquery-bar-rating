@@ -1,0 +1,13 @@
+{
+    "name": "renjdev/jquery-bar-rating",
+    "description": "Minimal, light-weight jQuery ratings.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Antenna.io",
+            "email": "antenna@antenna.io"
+        }
+    ],
+    "require": {}
+}
